@@ -1,27 +1,26 @@
-# This is a large heading
-# This is a smaller heading
+# Kate Morse
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Education
 
-- This is
-- an ordered
-- list
+I studied genetics and life sciences communication at the University of Wisconsin - Madison.  Now I am a PhD student at University of California - Berkeley studying molecular and cell biology.
 
-1. This is
-2. an ordered
-3. list
+### Travel
 
-Here is `some code` in the middle of a sentence.
+I've been to these countries:
 
-```
-This is a block of code
-```
+- Ecuador
+- Costa Rice
+- Wales
+- England
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Movies
 
-~[This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+My favorite movies are (in order):
 
-emacs readme.md
+1) *Kill Bill*
+2) *Across the Universe*
+3) *Titanic*
+
+### Contact
+
+Add me on [Facebook](https://www.facebook.com/katie.morse.7)!
